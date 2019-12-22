@@ -1,0 +1,4 @@
+This is an example to make people understand how
+displaying each pixel on a display (B&W) is like.
+
+Here I'm displaying each pixel as "#" (on) and " " (off)
